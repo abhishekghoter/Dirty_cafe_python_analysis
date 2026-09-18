@@ -1,4 +1,4 @@
-# Dirty_cafe_python_analysis
+# cafe_python_analysis
 Project overview
 This project performs an end-to-end Cafe Sales Analysis using Python. The objective is to clean and analyze cafe transaction data, identify sales patterns, understand customer purchasing behavior, and generate meaningful business insights.
 
